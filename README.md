@@ -1,2 +1,2 @@
 # DataFerry
-PowerShell Script with UI to make data transfer between computer workstations easier
+PowerShell Script with UI to make data transfers between computers easier
