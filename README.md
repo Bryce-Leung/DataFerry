@@ -8,7 +8,8 @@ PowerShell Script with UI to make data transfers between computers easier
 
 
 ### Current Functions:
-The current iteration of the DataFerry 
+The current iteration of the DataFerry:
+- 
 
 ### Features To Be Added:
 - Application install lists
