@@ -9,6 +9,7 @@ PowerShell Script with UI to make data transfers between computers easier
 
 ### Current Functions:
 The current iteration of the DataFerry:
+- Transfer all files and folders within the User folder
 - 
 
 ### Features To Be Added:
