@@ -1,5 +1,8 @@
+Author:
+[Bryce Leung](https://github.com/Bryce-Leung)
+
 # DataFerry
-PowerShell Script with UI to make data transfers between computers easier
+##PowerShell Script with UI to make data transfers between computers easier
 
 Featuers to be added:
 Application install lists, 
