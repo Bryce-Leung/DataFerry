@@ -5,7 +5,7 @@ Author:
 PowerShell Script with UI to make data transfers between computers easier
 
 ### How To Use:
-
+When the script is first ran in powershell the following interface will be seen 
 
 ### Current Functions:
 The current iteration of the DataFerry:
