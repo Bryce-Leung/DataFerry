@@ -1,16 +1,27 @@
+# **DataFerry Ver. 2.0**
+
 Author:
 [Bryce Leung](https://github.com/Bryce-Leung)
 
-# DataFerry Ver. 2.0
-PowerShell Script with UI to make data transfers between computers easier
+# **DataFerry Overview:**
+PowerShell Script with UI to make the transfer of basic data between computers easy and quick for those who require the quick transfer of data.
 
-### How To Use:
-When the script is first ran in powershell the following interface will be seen 
+# Contents
+- [Requirements](#Requirements)
+- [How to Use](#How-to-Use)
+- [Current Functionality](#Current-Functionality)
+- [Future Functions to be Added](#Future-Functions-to-be-Added)
 
-### Current Functions:
-The current iteration of the DataFerry:
-- Transfer all files and folders within the User folder
-- 
+# **DataFerry Ver. 2.0 Documentation:**
+
+### **Requirements**
+
+### **How to Use**
+
+### **Current Functionality**
+
+### **Future Functions to be Added**
+
 
 ### Features To Be Added:
 - Application install lists
