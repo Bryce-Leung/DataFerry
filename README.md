@@ -6,7 +6,7 @@ Author:
 # **DataFerry Overview:**
 PowerShell Script with UI to make the transfer of basic data between computers easy and quick for those who require the quick transfer of data.
 
-# Contents
+# Contents:
 - [Requirements](#Requirements)
 - [How to Use](#How-to-Use)
 - [Current Functionality](#Current-Functionality)
