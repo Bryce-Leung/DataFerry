@@ -15,13 +15,16 @@ PowerShell Script with UI to make the transfer of basic data between computers e
 # **DataFerry Ver. 2.0 Documentation:**
 
 ### **Requirements**
+----
 
 ### **How to Use**
+----
 
 ### **Current Functionality**
+----
 
 ### **Future Functions to be Added**
-
+----
 
 ### Features To Be Added:
 - Application install lists
