@@ -9,6 +9,8 @@ PowerShell Script with UI to make the transfer of basic data between computers e
 # Contents:
 - [Requirements](#Requirements)
 - [How to Use](#How-to-Use)
+  - [Backing Up Your Data](Backing-Up-Your-Data)
+  - [Importing Your Data](Importing-Your-Data)
 - [Current Functionality](#Current-Functionality)
 - [Future Functions to be Added](#Future-Functions-to-be-Added)
 
@@ -21,6 +23,8 @@ PowerShell Script with UI to make the transfer of basic data between computers e
 
 ### **How to Use**
 ----
+#### **Backing Up Your Data**
+#### **Importing Your Data**
 
 ### **Current Functionality**
 ----
