@@ -24,12 +24,13 @@ PowerShell Script with UI to make the transfer of basic data between computers e
 
 ### **Current Functionality**
 ----
+The current version of DataFerry is able to perform the following operations:
+
 
 ### **Future Functions to be Added**
 ----
-
-### Features To Be Added:
 - Application install lists
 - Network drive lists
 - Network drive connecting
 - Better drive selection
+- Report size of the data being transferred
