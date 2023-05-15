@@ -16,6 +16,8 @@ PowerShell Script with UI to make the transfer of basic data between computers e
 
 ### **Requirements**
 ----
+- Windows 10
+- External or network storage to store and import the transferred data from
 
 ### **How to Use**
 ----
