@@ -41,7 +41,12 @@ PowerShell Script with UI to make the transfer of basic data folders between com
 ----
 The current version of DataFerry is able to perform the following operations:
 - Display the name of the user account being used
-- 
+- Backup and Transfer of the following folders:
+  - Desktop
+  - Documents
+  - Downloads
+  - Pictures
+  - Videos 
 
 ### **Future Functions to be Added**
 ----
